@@ -14,3 +14,4 @@ C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\refint\Lela
 C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Lelab.pdb
 C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\ref\Lelab.dll
 C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Views\CountPage.xaml.g.cs
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
