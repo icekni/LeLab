@@ -1,0 +1,15 @@
+C:\Users\Formation\source\repos\Lelab\Lelab\bin\Debug\netstandard2.0\Lelab.deps.json
+C:\Users\Formation\source\repos\Lelab\Lelab\bin\Debug\netstandard2.0\Lelab.dll
+C:\Users\Formation\source\repos\Lelab\Lelab\bin\Debug\netstandard2.0\Lelab.pdb
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Lelab.csproj.AssemblyReference.cache
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Lelab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Lelab.AssemblyInfoInputs.cache
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Lelab.AssemblyInfo.cs
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Lelab.csproj.CoreCompileInputs.cache
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Lelab.dll
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\refint\Lelab.dll
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Lelab.pdb
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\ref\Lelab.dll
