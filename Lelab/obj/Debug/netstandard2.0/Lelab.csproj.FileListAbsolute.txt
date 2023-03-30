@@ -13,3 +13,4 @@ C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Lelab.dll
 C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\refint\Lelab.dll
 C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Lelab.pdb
 C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\ref\Lelab.dll
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Views\CountPage.xaml.g.cs

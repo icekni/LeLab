@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lelab.Views.CountPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Orientation="Vertical">
+            <Label x:Name="Counter" Text="0" HorizontalTextAlignment="Center" FontSize="60" />
+            <Button Text="Tap" Clicked="Handle_ClickedOnTapButton" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
