@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lelab.Views.MenuPage"
+             Title="Menu">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="0">
+            <StackLayout VerticalOptions="Start" Padding="0,40" BackgroundColor="#518faa" Spacing="10">
+                <Image Source="lab_logo.png" HeightRequest="100" />
+                <Label Text="Le Lab" FontSize="30" TextColor="#fff" HorizontalTextAlignment="Center">
+                    <Label.FontFamily>
+                        <OnPlatform x:TypeArguments="x:String">
+                            <OnPlatform.iOS>HelveticaNeue-Thin</OnPlatform.iOS>
+                            <OnPlatform.Android>HelveticaNeue-Thin.ttf#HelveticaNeue-Thin</OnPlatform.Android>
+                        </OnPlatform>
+                    </Label.FontFamily>
+                </Label>
+            </StackLayout>
+            
+            <Image Source="lab_separator.png" Aspect="Fill" />
+
+            <StackLayout Padding="30" Spacing="20">
+                <Button Text="Compteur" Clicked="Handle_ButtonCompteurClicked" Style="{StaticResource buttonLabStyle}" BackgroundColor="#c1ad24" />
+                <Button Text="TabPage" Clicked="Handle_ButtonTabPageClicked" Style="{StaticResource buttonLabStyle}" BackgroundColor="#a4881c" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
