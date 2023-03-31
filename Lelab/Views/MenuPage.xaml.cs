@@ -26,5 +26,10 @@ namespace Lelab.Views
         {
             this.Navigation.PushAsync(new TabsPage());
         }
+
+        private void Handle_ButtonListPageClicked(object sender, EventArgs e)
+        {
+            this.Navigation.PushAsync(new ListPage());
+        }
     }
 }

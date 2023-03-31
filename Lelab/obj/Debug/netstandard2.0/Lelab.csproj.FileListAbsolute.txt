@@ -18,3 +18,4 @@ C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Views\MenuP
 C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Views\TabAvion.xaml.g.cs
 C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Views\TabsPage.xaml.g.cs
 C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Views\TabVoiture.xaml.g.cs
+C:\Users\Formation\source\repos\Lelab\Lelab\obj\Debug\netstandard2.0\Views\ListPage.xaml.g.cs

@@ -22,6 +22,7 @@
             <StackLayout Padding="30" Spacing="20">
                 <Button Text="Compteur" Clicked="Handle_ButtonCompteurClicked" Style="{StaticResource buttonLabStyle}" BackgroundColor="#c1ad24" />
                 <Button Text="TabPage" Clicked="Handle_ButtonTabPageClicked" Style="{StaticResource buttonLabStyle}" BackgroundColor="#a4881c" />
+                <Button Text="Liste" Clicked="Handle_ButtonListPageClicked" Style="{StaticResource buttonLabStyle}" BackgroundColor="#c60e3c" />
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>
