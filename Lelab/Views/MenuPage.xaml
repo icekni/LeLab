@@ -4,9 +4,24 @@
              x:Class="Lelab.Views.MenuPage"
              Title="Menu">
     <ContentPage.Content>
-        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical" Padding="10, 20">
-            <Label Text="Le Lab" FontSize="30" HorizontalTextAlignment="Center" />
-            <Button Text="Compteur" Clicked="Handle_ButtonCompteurClicked" />
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="0">
+            <StackLayout VerticalOptions="Start" Padding="0,40" BackgroundColor="#518faa" Spacing="10">
+                <Image Source="lab_logo.png" HeightRequest="100" />
+                <Label Text="Le Lab" FontSize="30" TextColor="#fff" HorizontalTextAlignment="Center">
+                    <Label.FontFamily>
+                        <OnPlatform x:TypeArguments="x:String">
+                            <OnPlatform.iOS>HelveticaNeue-Thin</OnPlatform.iOS>
+                            <OnPlatform.Android>HelveticaNeue-Thin.ttf#HelveticaNeue-Thin</OnPlatform.Android>
+                        </OnPlatform>
+                    </Label.FontFamily>
+                </Label>
+            </StackLayout>
+            
+            <Image Source="lab_separator.png" Aspect="Fill" />
+            
+            <StackLayout Padding="30">
+                <Button Text="Compteur" Clicked="Handle_ButtonCompteurClicked" Style="{StaticResource buttonLabStyle}" BackgroundColor="#c1ad24" />
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

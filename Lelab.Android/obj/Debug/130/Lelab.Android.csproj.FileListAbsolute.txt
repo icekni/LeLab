@@ -631,3 +631,5 @@ C:\Users\Formation\source\repos\Lelab\Lelab.Android\obj\Debug\130\stamp\_Convert
 C:\Users\Formation\source\repos\Lelab\Lelab.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\Formation\source\repos\Lelab\Lelab.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Formation\source\repos\Lelab\Lelab.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Formation\source\repos\Lelab\Lelab.Android\obj\Debug\130\res\drawable\lab_logo.png
+C:\Users\Formation\source\repos\Lelab\Lelab.Android\obj\Debug\130\res\drawable\lab_separator.png
