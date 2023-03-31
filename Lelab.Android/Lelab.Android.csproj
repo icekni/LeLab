@@ -107,5 +107,30 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </AndroidResource>
   </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\lab_icon_avion.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\lab_icon_compteur.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\lab_icon_voiture.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\lab_avion.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\lab_voiture.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </AndroidResource>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
