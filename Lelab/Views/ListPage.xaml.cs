@@ -25,6 +25,15 @@ namespace Lelab.Views
             articles.Add(new Article { Nom = "Beurre", Prix = "1.25€" });
 
             ArticlesListView.ItemsSource = articles;
+
+            ArticlesListView.ItemSelected += (sender, e) =>
+            {
+                if (ArticlesListView.SelectedItem != null)
+                {
+                    DisplayAlert("Article", $"{(ArticlesListView.SelectedItem as Article).Nom} => {(ArticlesListView.SelectedItem as Article).Prix}", "Fermer");
+                    ArticlesListView.SelectedItem = null;
+                }
+            };
         }
     }
 
